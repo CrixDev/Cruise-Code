@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Cruise Code Logo" width="200"/>
+  <img src="assets/logo.png](https://github.com/user-attachments/assets/8793837b-03b4-4eaa-bb09-d1e314183492" alt="Cruise Code Logo" width="200"/>
 </p>
 
 <h1 align="center">Cruise Code</h1>
 
-<p align="center">
+
+
   🚢💻 Un editor de código ligero impulsado por IA. Desarrolla como si estuvieras en un crucero, con la tranquilidad de tener la inteligencia artificial como copiloto.
 </p>
 
