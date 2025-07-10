@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="assets/logo.png](https://github.com/user-attachments/assets/8793837b-03b4-4eaa-bb09-d1e314183492" alt="Cruise Code Logo" width="200"/>
+  <img width="800" height="800" alt="CruiseCode1" src="https://github.com/user-attachments/assets/e56be09a-c7d2-46f1-b0c7-321a3384c843" />
 </p>
 
 <h1 align="center">Cruise Code</h1>
+
 
 
 
