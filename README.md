@@ -23,20 +23,6 @@
 
 ---
 
-## 📸 Capturas de Pantalla
-
-> *(Reemplaza las rutas con tus propias imágenes)*
-
-### Pantalla principal
-
-![Editor Principal](assets/screenshot-editor.png)
-
-### Sugerencias de código con IA
-
-![IA Autocomplete](assets/screenshot-ai.png)
-
----
-
 ## 🛠️ Instalación
 
 Cruise Code está disponible para **Windows**, **Linux** y **macOS**.
