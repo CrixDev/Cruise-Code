@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="800" alt="CruiseCode1" src="https://github.com/user-attachments/assets/e56be09a-c7d2-46f1-b0c7-321a3384c843" />
+  <img width="200" height="200" alt="CruiseCode1" src="https://github.com/user-attachments/assets/e56be09a-c7d2-46f1-b0c7-321a3384c843" />
 </p>
 
 <h1 align="center">Cruise Code</h1>
